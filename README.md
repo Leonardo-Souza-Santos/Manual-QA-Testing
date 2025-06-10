@@ -1,4 +1,4 @@
-# Plano de Teste
+# Plano de Testes
 # Projeto: automationexercise.com
 # Escopo: Teste manual para busca de produto, carrinho, login e checkout
 
