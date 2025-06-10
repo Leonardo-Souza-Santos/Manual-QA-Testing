@@ -2,7 +2,7 @@
 # Projeto: automationexercise.com
 # Escopo: Teste manual para busca de produto, carrinho, login e checkout
 
-# Tipos de Teste:
+# Tipos de Testes:
 - Funcional
 - Regressão
 - Exploratória 
