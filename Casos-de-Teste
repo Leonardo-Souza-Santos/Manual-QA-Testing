@@ -1,0 +1,14 @@
+# Casos de Teste
+# TC001 - Adicionar produto ao carrinho
+
+# Objetivo: Verificar se um utilizador pode adicionar um produto ao carrinho
+# Pré-Condição: O utilizador está na página inicial
+
+# Passos:
+1 - Abrir o site
+2 - Ir para Produtos
+3 - Passe o cursor sobre o primeiro produto e clique em adicionar carrinho 
+4 - Clique em ver carrinho
+
+# Resultado esperado: 
+- O produto aparece no carrinho com o nome e o preço
