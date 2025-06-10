@@ -1,0 +1,12 @@
+# BR001 - Falha nas buscas de produtos
+# Resumo: O campo de pesquisa trava a página ao inserir caracteres especiais 
+
+# Passos para reproduzir:
+1 - Ir para a página inicial
+2 - Digite '!@#$$%%' na barra de pesquisa
+3 - Clique em pesquisar 
+
+# Resultado esperado: Nenhum produto encontrado
+# Resultado Real: A página é atualizada para branco
+# Severidade: Média
+# Prioridade: Alta
